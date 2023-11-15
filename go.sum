@@ -1,0 +1,9 @@
+github.com/alexedwards/scs/sqlite3store v0.0.0-20231113091146-cef4b05350c8 h1:mnXnnXEjn8QIyv4KCN0+IjDlXA64qdq2hIVOmfNFeuY=
+github.com/alexedwards/scs/sqlite3store v0.0.0-20231113091146-cef4b05350c8/go.mod h1:Iyk7S76cxGaiEX/mSYmTZzYehp4KfyylcLaV3OnToss=
+github.com/alexedwards/scs/v2 v2.6.0 h1:vxNyhWZOnlWK9NsYlgFjSaP5IGN7Cm/sf6/slLJNBos=
+github.com/alexedwards/scs/v2 v2.6.0/go.mod h1:ToaROZxyKukJKT/xLcVQAChi5k6+Pn1Gvmdl7h3RRj8=
+github.com/alexedwards/scs/v2 v2.7.0 h1:DY4rqLCM7UIR9iwxFS0++z1NhTzQlKV30aMHkJCDWKw=
+github.com/alexedwards/scs/v2 v2.7.0/go.mod h1:ToaROZxyKukJKT/xLcVQAChi5k6+Pn1Gvmdl7h3RRj8=
+github.com/mattn/go-sqlite3 v1.14.6/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
+github.com/mattn/go-sqlite3 v1.14.18 h1:JL0eqdCOq6DJVNPSvArO/bIV9/P7fbGrV00LZHc+5aI=
+github.com/mattn/go-sqlite3 v1.14.18/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
